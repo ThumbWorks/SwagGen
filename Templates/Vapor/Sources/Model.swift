@@ -1,5 +1,5 @@
 {% include "Includes/Header.stencil" %}
 
-import Foundation
+import Vapor
 
 {% include "Includes/Model.stencil" %}
