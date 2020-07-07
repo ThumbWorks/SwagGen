@@ -1,6 +1,6 @@
 # {{ options.name }}
 
-This is an api generated from a OpenAPI 3.0 spec with [SwagGen](https://github.com/yonaskolb/SwagGen) using a [Vapor](https://vapor.codes) specific [template](https://github.com/ThumbWorks/SwagGen). 
+This is an api generated from a OpenAPI 3.0 spec with [SwagGen](https://github.com/yonaskolb/SwagGen) using a [Vapor](https://vapor.codes) specific [template](https://github.com/ThumbWorks/SwagGen/tree/ff03326935e50a5f60094dcab62ce48b14d2021f/Templates/Vapor). 
 
 ## Operation
 
